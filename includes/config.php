@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Openshift',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
