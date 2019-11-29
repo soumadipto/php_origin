@@ -5,14 +5,13 @@
     padding: 30px 40px; 
     text-align: center; 
     box-shadow: 0 4px 25px -4px #9da5ab;
-    background-color: lightblue;
 }
 article { 
     padding: 40px; 
     line-height: 150%; 
     text-align: left; 
 }
-
+body {background-color: coral;}
 nav .item {
     text-decoration: none;
 }
