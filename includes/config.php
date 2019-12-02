@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'OneComerica',
+        'name' => 'subject',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
